@@ -8,4 +8,4 @@
 
 function reverse(str) {}
 
-module.exports = reverse;
+module.exports = reverse
